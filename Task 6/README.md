@@ -32,3 +32,8 @@
   Value adding  |   40.6%   |   40.9%   |   64.0%  |   45.1%    |
   Supporting    |   28.1%   |   24.3%   |   19.7%  |   24.3%    |
 not value adding|   31.4%   |   34.8%   |   16.3%  |   30.6%    |
+
+# PREVIEW SCREENSHOTS
+
+<img width="1066" alt="p11" src="https://user-images.githubusercontent.com/99751194/156519395-906f71c6-d3d3-400f-a7dd-3008372adb0a.png">
+
