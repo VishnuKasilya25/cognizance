@@ -37,3 +37,5 @@ not value adding|   31.4%   |   34.8%   |   16.3%  |   30.6%    |
 
 <img width="1066" alt="p11" src="https://user-images.githubusercontent.com/99751194/156519395-906f71c6-d3d3-400f-a7dd-3008372adb0a.png">
 
+
+<img width="1006" alt="p2" src="https://user-images.githubusercontent.com/99751194/156519724-d26f42d5-a5e5-4723-8890-6b0f0a8f0f6a.png">
